@@ -2,8 +2,8 @@
 Used to record audio in wav format in android.
 
 ## Permission
-Write external file
-Record Audio
+Write external file <br/>
+Record Audio <br/>
 
 ## Library used
 android.media.AudioFormat. Refer https://developer.android.com/reference/android/media/AudioFormat <br/>
