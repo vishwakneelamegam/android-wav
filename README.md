@@ -6,9 +6,9 @@ Write external file
 Record Audio
 
 ## Library used
-android.media.AudioFormat. Refer https://developer.android.com/reference/android/media/AudioFormat
-android.media.AudioRecord. Refer https://developer.android.com/reference/android/media/AudioRecord
-android.media.MediaRecorder. Refer https://developer.android.com/guide/topics/media/mediarecorder
+android.media.AudioFormat. Refer https://developer.android.com/reference/android/media/AudioFormat <br/>
+android.media.AudioRecord. Refer https://developer.android.com/reference/android/media/AudioRecord <br/>
+android.media.MediaRecorder. Refer https://developer.android.com/guide/topics/media/mediarecorder <br/>
 
 ## Information
 It can be used for deep speech, IBM speech to text, google cloud speech to text.
